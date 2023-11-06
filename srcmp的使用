@@ -1,0 +1,5 @@
+strcmp的使用，需要引头文件#include<string.h>
+strcmp 前>后 输出>0
+         <      <0
+         =      =0
+strcmp用于比较两个字符是否相等
